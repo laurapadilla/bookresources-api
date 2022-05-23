@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "title": "Pills, Power and Policy",
+      "author": "Tobelle, Dominique A.",
+      "publicationDate": "Dec 7, 2011",
+      "category": ["Drug Policy", "Public Policy"],
+      "submittedBy": "Benjamin Franklin",
+      "blurb": "The struggle for drug reform in cold war america and it’s consequences.The struggle for drug reform in cold war america and it’s consequences."
+    },
+    {
+      "id": 1,
+      "title": "This is Another Book",
+      "author": "Patterson, James",
+      "publicationDate": "Jun 15, 1999",
+      "category": ["Mental Health", "Public Policy", "Drug Policy"],
+      "submittedBy": "James Patrick Caviezel",
+      "blurb": "I recommend this book for anyone intersted in learning more about drug reform and how it affects the lives of people."
+    },
+    {
+      "id": 2,
+      "title": "Book Title 3",
+      "author": "Brookheimer, Amy",
+      "publicationDate": "Sept 28, 2019",
+      "category": ["Health Care", "Public Policy"],
+      "submittedBy": "Alexandra Walsh",
+      "blurb": "I rally enjoyed reading this book and it opened my eyes on public policy and how it affects the lives of people."
+    },
+    {
+      "id": 3,
+      "title": "Generic",
+      "author": "Greene, Jeremy A.",
+      "publicationDate": "Oct 27, 2014",
+      "category": ["Public Policy"],
+      "submittedBy": "Dylan Thomas",
+      "blurb": "The struggle for drug reform in cold war america and it’s consequences.The struggle for drug reform in cold war america and it’s consequences."
+    }
+  ]
+}
