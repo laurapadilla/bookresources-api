@@ -1,0 +1,23 @@
+{
+  "name": "bookresources-api",
+  "version": "1.0.0",
+  "description": "Book Resources API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurapadilla/bookresources-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurapadilla/bookresources-api/issues"
+  },
+  "homepage": "https://github.com/laurapadilla/bookresources-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
