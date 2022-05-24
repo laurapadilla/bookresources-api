@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/laurapadilla/bookresources-api#readme",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "styled-system": "^5.1.5"
   }
 }
